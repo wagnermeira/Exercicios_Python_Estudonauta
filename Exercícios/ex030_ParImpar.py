@@ -5,7 +5,5 @@ r = n % 2
 
 if r == 0:
     print('O número {} é par.'.format(n))
-elif n == 3:
-    print('{} é PAAAAARRRRR hahahahahah'.format(n))
 else:
     print('O número {} é ímpar.'.format(n))
