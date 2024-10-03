@@ -1,0 +1,1 @@
+# Crie um programa que leia o ano de nascimento de sete pessoas e mostre quants pessoas inda não atingiram a maioridade e quantas já são maiores.
