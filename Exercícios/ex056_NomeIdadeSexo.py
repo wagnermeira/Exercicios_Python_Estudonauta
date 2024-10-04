@@ -26,4 +26,3 @@ print('-=-' * 15)
 print('A média de idade do grupo é de {} anos.'.format(somaidade / 4))
 print('O {} é o homem mais velho com {} anos.'.format(nomehomem, homem))
 print('Temos {} mulher(es) com menos de 20 anos.'.format(mulher))
-
