@@ -5,5 +5,5 @@ r = float(input('Digite a razão da sua PA: '))
 
 for c in range (0, 10):
     t = t + r
-    print(t - r)
+    print(t - r, end=' -> ')
 print('FIM')
